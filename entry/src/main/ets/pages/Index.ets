@@ -18,7 +18,7 @@ struct Index {
       Text(this.message2)
         .id('CohenHarmony')
         .fontSize(50)
-        .fontWeight(FontWeight.Bold)
+        .fontWeight(FontWeight.Bolder)
         .fontColor(Color.Orange)
     }
     .height('100%')
